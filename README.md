@@ -3,9 +3,9 @@ Un repositorio para el [curso Definitivo de HTML CSS ](https://platzi.com/cursos
 > - VictorAlas
 
 ## Recursos del curso 
-* 
-*  
-* 
+* aqui podemos encontrar imagenes en diversos tamaños y formatos [gratuito](https://www.pexels.com/es-es/) y aqui tambien [unsplash] (https://unsplash.com/)
+*  aqui podemos tomar imagenes pesadas y comprimirlas para ahorrar espacio y tiempo de carga [tinypng](https://tinypng.com/)
+* aqui podemos borrar la metadata de una imagen para que pese menos [verefix](https://www.verexif.com/)
 * 
 * 
 * 
